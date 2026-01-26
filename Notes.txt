@@ -1,0 +1,39 @@
+LangSmith (Analytics) / LLMOPS
+==============================
+Monitor
+Debug
+Testing
+
+
+LangServe
+==========
+
+You have created your llm application,
+here your llm application need to be serves via some apis
+LangServe provides FASTAPI, and makes api creation easier.
+
+
+Chains
+======
+
+
+Agents, Retrieval
+=================
+
+
+LCEL (LangChain Expression LangChain)
+=====================================
+
+
+Model I/O
+=========
+
+
+Retriever
+=========
+
+
+Agent tooling
+=============
+ 
+
